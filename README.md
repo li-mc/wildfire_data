@@ -2,7 +2,7 @@
 
 Data sources:
 1. https://www.kaggle.com/rtatman/188-million-us-wildfires
-
+2. https://www.weather.gov/documentation/services-web-api (API we can use to generate weather data for relevant dates)
 
 #### Notebook summary:
 generate_data_with_target: resources to generate
