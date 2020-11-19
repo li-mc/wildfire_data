@@ -1,3 +1,5 @@
 *.sqlite
 *.ipynb_checkpoints/*
 *.csv
+.DS_Store
+*.zip
